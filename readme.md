@@ -1,10 +1,12 @@
-Code for the [2022 Lucid Programming Competition] (https://www.hackerrank.com/contests/lpc-2022/) (my user is `@mkwsnyder`)
+# 2022 Lucid Programming Competition
+
+Code for the [2022 Lucid Programming Competition](https://www.hackerrank.com/contests/lpc-2022/) (my user is `@mkwsnyder`)
 
 [Official Solutions](https://github.com/lucidsoftware/lucid-programming-competition-2022)
 
 I placed 83/526 overall and 4/42 for USU students.
 
-Successfully completed:
+## Successfully completed:
 
 - Atlantis Code
 - Farthest Island
@@ -16,7 +18,7 @@ Successfully completed:
 - Stable Sandcastle
 - Storm Predictor
 
-Unsuccessfully Attempted:
+## Unsuccessfully Attempted:
 
 - Reef Populations
 - Wanted Pirates
