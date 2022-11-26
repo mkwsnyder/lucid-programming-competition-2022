@@ -6,7 +6,7 @@ Code for the [2022 Lucid Programming Competition](https://www.hackerrank.com/con
 
 I placed 83/526 overall and 4/42 for USU students.
 
-## Successfully completed:
+## Successfully Completed:
 
 - Atlantis Code
 - Farthest Island
